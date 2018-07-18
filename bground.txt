@@ -1,0 +1,18 @@
+Target gene list:
+- DorCDA and DmsABC operons
+- FNR controls DorCDA
+- RegAB
+
+- E. coli
+	DorRS
+	no DmsABC regulator
+	NarL
+	IHF
+	ModE
+	Ynf
+	TorZ
+- R. sphaeroides
+	DorYS
+- S.oneidensis
+- R.sulfidophilum
+	DdhABC
